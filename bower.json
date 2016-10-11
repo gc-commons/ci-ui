@@ -22,7 +22,7 @@
     "angular": "~1.2.28",
     "angular-mocks": "~1.2.28",
     "lodash": "~3.10.0",
-    "ci-translate": "git@github.com:pablonp/ci-translate.git#~0.2.0",
+    "ci-translate": "https://github.com/pablonp/ci-translate.git",
     "bootstrap": "~3.2.0",
     "angular-bootstrap": "~0.12.1"
   }
