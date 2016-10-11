@@ -1,6 +1,6 @@
 {
   "name": "ci-ui",
-  "version": "0.2.10",
+  "version": "0.2.11",
   "description": "Commons directives to handle the UI issues.",
   "main": [
     "src/ui.service.js",
